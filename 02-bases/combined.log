@@ -1,7 +1,0 @@
-{"level":"info","message":"Hola mundo","service":"app.js","timestamp":"2026-03-27T07:53:18.649Z"}
-{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2026-03-27T07:53:18.652Z"}
-{"level":"info","message":"test message","service":"test service","timestamp":"2026-03-27T10:31:32.790Z"}
-{"level":"info","message":"test message","service":"test service","timestamp":"2026-03-27T10:32:02.533Z"}
-{"level":"info","message":"test message","service":"test service","timestamp":"2026-03-27T10:33:49.943Z"}
-{"level":"info","message":"test message","service":"test service","timestamp":"2026-03-27T10:34:38.956Z"}
-{"level":"info","message":"test message","service":"test service","timestamp":"2026-03-27T10:42:42.593Z"}
