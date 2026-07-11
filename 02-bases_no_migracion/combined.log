@@ -1,0 +1,17 @@
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"error","message":""}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"error","message":""}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"error","message":"error Hola mundo","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"error","message":"error Esto es un error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js"}
+{"level":"error","message":"error Esto es un error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"app.js","timestamp":"2026-03-26T09:12:00.829Z"}
+{"level":"error","message":"error Esto es un error","service":"app.js","timestamp":"2026-03-26T09:12:00.832Z"}
